@@ -1,4 +1,5 @@
 import Vue from 'vue';
+import 'dotenv/config';
 import App from './App';
 
 new Vue({
